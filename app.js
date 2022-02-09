@@ -55,6 +55,9 @@ submit.addEventListener('click',function(e){
    `;
 
 
+   myName.value='';
+   myEmail.value='';
+   myPhone.value='';
 
 })
 
